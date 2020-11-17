@@ -8,6 +8,7 @@ public class romain {
 	 }
  }
  //comment
+ 
 public static void afficher(int j) {
  
 // for(int a=0;a<4;a++) {
